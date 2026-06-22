@@ -56,7 +56,7 @@ Flutter mobile + React web + Supabase backend + Stripe payments. Built with a fu
 
 Full Stack · Backend-leaning · Startup engineering roles
 
-📩 sadik.shaikh@saralux.com
+📩 sadikshaikh3012@gmail.com
 
 <h1 align="center">Hi 👋, I'm Sadik Shaikh</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
