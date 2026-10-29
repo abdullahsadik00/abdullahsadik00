@@ -11,7 +11,7 @@ I like backend-heavy problems: ingestion pipelines, auth, data modelling, and ke
 ### [Logly](https://github.com/abdullahsadik00/logly): privacy-first web analytics
 A Plausible-style analytics product: a small JS tracking snippet, an ingestion API, and a real-time dashboard.
 
-- **Hot/cold path split:** the collector endpoint buffers events in Redis and returns immediately. A BullMQ worker enriches the events and batch-writes them to PostgreSQL.
+- **Write path and read path kept separate:** the collector endpoint buffers events in Redis and returns immediately. A separate worker drains the buffer and batch-writes events and idempotent daily rollups to PostgreSQL.
 - **Real-time** visitor count streamed to the dashboard over Server-Sent Events.
 - **Stripe revenue attribution** with webhook signature verification, covered by unit tests.
 - Architecture decisions are written up as ADRs in [`/decisions`](https://github.com/abdullahsadik00/logly/tree/main/decisions). CI type-checks, builds and tests both apps on every push.
