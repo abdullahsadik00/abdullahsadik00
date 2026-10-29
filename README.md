@@ -42,7 +42,7 @@ Instructors create and publish courses. Students enroll, watch lessons and track
 
 `TypeScript` `Node.js` `Express` `Prisma` `PostgreSQL` `React` `Vite` `TanStack Query` `Zustand` `Vercel` `Neon`
 
-### [Todo++](https://github.com/abdullahsadik00/Todo-plus-plus): task manager (frontend focus)
+### [Todo++](https://github.com/abdullahsadik00/Todo-plus-plus): task manager (frontend focus) · [**Live demo**](https://todo-plus-plus-omega.vercel.app)
 Next.js App Router + Zustand (persist + immer). Features: drag-to-reorder with mouse and keyboard (dnd-kit), debounced search, derived selectors, keyboard shortcuts. Tested with Vitest + Testing Library.
 
 `Next.js` `TypeScript` `Zustand` `dnd-kit` `Vitest`
