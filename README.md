@@ -10,7 +10,7 @@ I like backend-heavy problems: ingestion pipelines, auth, data modelling, and ke
 
 ## Experience
 
-**Software Developer · Saralux** · 2+ years
+**Software Developer · Saralux** · Feb 2024 – Oct 2026
 
 Frontend, backend and full-stack work on NetSuite-based products for clients:
 
