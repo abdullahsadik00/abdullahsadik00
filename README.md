@@ -2,7 +2,9 @@
 
 **Full-Stack Engineer (TypeScript · React · Node.js · PostgreSQL)**: I build products end to end, from the database schema and API to the UI people use.
 
-I like backend-heavy problems: ingestion pipelines, auth, data modelling, and keeping slow work off the request path. I also ship the React frontends that sit on top of them. Based in Pune, India. Open to full-stack, backend and frontend roles.
+I like backend-heavy problems: ingestion pipelines, auth, data modelling, and keeping slow work off the request path. I also ship the React frontends that sit on top of them. Based in Pune, India.
+
+> **🟢 Actively looking for Full-Stack, Backend and Frontend Developer roles.** Open to on-site in Pune or remote. [Email me](mailto:sadikshaikh3012@gmail.com) or [connect on LinkedIn](https://www.linkedin.com/in/shaikh-sadik/).
 
 ---
 
@@ -54,6 +56,6 @@ A habit tracker built around recovering from a miss instead of resetting a strea
 
 ## Let's talk
 
-I'm **open to Full-Stack, Backend and Frontend Developer roles** (on-site in Pune, or remote).
+I'm **actively looking for Full-Stack, Backend and Frontend Developer roles** (on-site in Pune, or remote) and can share my résumé on request.
 
 📧 [sadikshaikh3012@gmail.com](mailto:sadikshaikh3012@gmail.com) · 💼 [LinkedIn](https://www.linkedin.com/in/shaikh-sadik/)
