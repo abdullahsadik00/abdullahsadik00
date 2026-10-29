@@ -2,7 +2,7 @@
 
 **Full-Stack Engineer (TypeScript · React · Node.js · PostgreSQL)**: I build products end to end, from the database schema and API to the UI people use.
 
-I like backend-heavy problems: ingestion pipelines, auth, data modelling, and keeping slow work off the request path. I also ship the React frontends that sit on top of them. Based in Pune, India.
+I like backend-heavy problems: API design, auth, data modelling and integrations. I also ship the React frontends that sit on top of them. Based in Pune, India.
 
 > **🟢 Actively looking for Full-Stack, Backend and Frontend Developer roles.** Open to on-site in Pune or remote. [Email me](mailto:sadikshaikh3012@gmail.com) or [connect on LinkedIn](https://www.linkedin.com/in/shaikh-sadik/).
 
@@ -21,16 +21,6 @@ Frontend, backend and full-stack work on NetSuite-based products for clients:
 ---
 
 ## Featured projects
-
-### [Logly](https://github.com/abdullahsadik00/logly): privacy-first web analytics
-A Plausible-style analytics product: a small JS tracking snippet, an ingestion API, and a real-time dashboard.
-
-- **Write path and read path kept separate:** the collector endpoint buffers events in Redis and returns immediately. A separate worker drains the buffer and batch-writes events and idempotent daily rollups to PostgreSQL.
-- **Real-time** visitor count streamed to the dashboard over Server-Sent Events.
-- **Stripe revenue attribution** with webhook signature verification, covered by unit tests.
-- Architecture decisions are written up as ADRs in [`/decisions`](https://github.com/abdullahsadik00/logly/tree/main/decisions). CI type-checks, builds and tests both apps on every push.
-
-`TypeScript` `Express` `Redis` `BullMQ` `PostgreSQL` `Prisma` `React` `TanStack Query` `Recharts` `GitHub Actions`
 
 ### Ed-Tech Platform: course marketplace · [**Live demo**](https://ed-tech-platform-frontend-two.vercel.app/login) ([frontend](https://github.com/abdullahsadik00/Ed-Tech-Platform-frontend) · [backend](https://github.com/abdullahsadik00/Ed-Tech-Platform-backend))
 Instructors create and publish courses. Students enroll, watch lessons and track progress lesson by lesson.
@@ -61,10 +51,10 @@ A habit tracker built around recovering from a miss instead of resetting a strea
 |---|---|
 | **Languages** | TypeScript, JavaScript, SQL, Dart |
 | **Frontend** | React, Next.js, Vite, TanStack Query, Zustand, Tailwind CSS, shadcn/ui, React Hook Form |
-| **Backend** | Node.js, Express, REST API design, JWT auth, Zod, BullMQ, Server-Sent Events |
-| **Data** | PostgreSQL (Neon), Prisma, Redis, Supabase |
+| **Backend** | Node.js, Express, REST API design, JWT auth, role-based access, Zod |
+| **Data** | PostgreSQL (Neon), Prisma, Supabase |
 | **Platforms** | NetSuite (SuiteScript 2.x, SuiteCommerce) |
-| **Tooling** | Git, GitHub Actions, Turborepo, Docker Compose (local dev), Vitest, Supertest, Vercel |
+| **Tooling** | Git, GitHub Actions, Vitest, Supertest, Vercel |
 
 ---
 
