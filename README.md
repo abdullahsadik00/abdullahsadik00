@@ -8,6 +8,18 @@ I like backend-heavy problems: ingestion pipelines, auth, data modelling, and ke
 
 ---
 
+## Experience
+
+**Software Developer · Saralux** · 2+ years
+
+Frontend, backend and full-stack work on NetSuite-based products for clients:
+
+- **Backend:** business logic, integrations and batch jobs in SuiteScript 2.x (User Event, Client, Suitelet, RESTlet and Map/Reduce scripts).
+- **Frontend:** React + TypeScript single-page apps running inside NetSuite, built on a shared component library.
+- **E-commerce:** SuiteCommerce storefront features, from views, templates and SCSS through to the backend services behind them.
+
+---
+
 ## Featured projects
 
 ### [Logly](https://github.com/abdullahsadik00/logly): privacy-first web analytics
@@ -50,6 +62,7 @@ A habit tracker built around recovering from a miss instead of resetting a strea
 | **Frontend** | React, Next.js, Vite, TanStack Query, Zustand, Tailwind CSS, shadcn/ui, React Hook Form |
 | **Backend** | Node.js, Express, REST API design, JWT auth, Zod, BullMQ, Server-Sent Events |
 | **Data** | PostgreSQL (Neon), Prisma, Redis, Supabase |
+| **Platforms** | NetSuite (SuiteScript 2.x, SuiteCommerce) |
 | **Tooling** | Git, GitHub Actions, Turborepo, Docker Compose (local dev), Vitest, Vercel |
 
 ---
