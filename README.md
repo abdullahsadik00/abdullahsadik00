@@ -18,14 +18,15 @@ A Plausible-style analytics product: a small JS tracking snippet, an ingestion A
 
 `TypeScript` `Express` `Redis` `BullMQ` `PostgreSQL` `Prisma` `React` `TanStack Query` `Recharts` `GitHub Actions`
 
-### Ed-Tech Platform: course marketplace ([frontend](https://github.com/abdullahsadik00/Ed-Tech-Platform-frontend) · [backend](https://github.com/abdullahsadik00/Ed-Tech-Platform-backend))
+### Ed-Tech Platform: course marketplace · [**Live demo**](https://ed-tech-platform-frontend-two.vercel.app/login) ([frontend](https://github.com/abdullahsadik00/Ed-Tech-Platform-frontend) · [backend](https://github.com/abdullahsadik00/Ed-Tech-Platform-backend))
 Instructors create and publish courses. Students enroll, watch lessons and track progress lesson by lesson.
 
 - **REST API** in Express + TypeScript: JWT auth, role-based access (student/instructor), Zod request validation, Helmet and rate limiting.
 - **PostgreSQL schema** designed in Prisma (37 models) with migrations.
 - **React SPA**: TanStack Query for server state, Zustand for auth state, shadcn/ui + Tailwind. Includes a course player and an instructor course builder.
+- **Deployed on Vercel + Neon Postgres.** Migrations and demo seed data run on every deploy. One-click demo logins for the student and instructor roles.
 
-`TypeScript` `Node.js` `Express` `Prisma` `PostgreSQL` `React` `Vite` `TanStack Query` `Zustand`
+`TypeScript` `Node.js` `Express` `Prisma` `PostgreSQL` `React` `Vite` `TanStack Query` `Zustand` `Vercel` `Neon`
 
 ### [Todo++](https://github.com/abdullahsadik00/Todo-plus-plus): task manager (frontend focus)
 Next.js App Router + Zustand (persist + immer). Features: drag-to-reorder with mouse and keyboard (dnd-kit), debounced search, derived selectors, keyboard shortcuts. Tested with Vitest + Testing Library.
@@ -46,7 +47,7 @@ A habit tracker built around recovering from a miss instead of resetting a strea
 | **Languages** | TypeScript, JavaScript, SQL, Dart |
 | **Frontend** | React, Next.js, Vite, TanStack Query, Zustand, Tailwind CSS, shadcn/ui, React Hook Form |
 | **Backend** | Node.js, Express, REST API design, JWT auth, Zod, BullMQ, Server-Sent Events |
-| **Data** | PostgreSQL, Prisma, Redis, Supabase |
+| **Data** | PostgreSQL (Neon), Prisma, Redis, Supabase |
 | **Tooling** | Git, GitHub Actions, Turborepo, Docker Compose (local dev), Vitest, Vercel |
 
 ---
