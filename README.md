@@ -55,4 +55,4 @@ A habit tracker built around recovering from a miss instead of resetting a strea
 
 I'm **open to Full-Stack, Backend and Frontend Developer roles** (on-site in Pune, or remote).
 
-📧 [sadikshaikh3012@gmail.com](mailto:sadikshaikh3012@gmail.com)
+📧 [sadikshaikh3012@gmail.com](mailto:sadikshaikh3012@gmail.com) · 💼 [LinkedIn](https://www.linkedin.com/in/shaikh-sadik/)
