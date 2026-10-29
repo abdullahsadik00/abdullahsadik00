@@ -10,13 +10,18 @@ I like backend-heavy problems: API design, auth, data modelling and integrations
 
 ## Experience
 
-**Software Developer · Saralux** · Feb 2024 – Oct 2026
+**Software Engineer · Bee Logical** · Feb 2024 – Oct 2026
 
-Frontend, backend and full-stack work on NetSuite-based products for clients:
+Frontend, backend and full-stack work on Saralux's M360 product, built on NetSuite, for enterprise clients:
 
 - **Backend:** business logic, integrations and batch jobs in SuiteScript 2.x (User Event, Client, Suitelet, RESTlet and Map/Reduce scripts).
 - **Frontend:** React + TypeScript single-page apps running inside NetSuite, built on a shared component library.
 - **E-commerce:** SuiteCommerce storefront features, from views, templates and SCSS through to the backend services behind them.
+- Received Bee Logical's Collaborative Spirit Award (2024) for client handling and delivery.
+
+**Associate Web Designer · AffinityX** · Apr 2023 – Nov 2023
+
+- Built responsive, cross-browser web pages in HTML, CSS and JavaScript from client designs.
 
 ---
 
