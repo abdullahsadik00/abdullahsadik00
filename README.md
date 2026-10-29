@@ -38,6 +38,7 @@ Instructors create and publish courses. Students enroll, watch lessons and track
 - **REST API** in Express + TypeScript: JWT auth, role-based access (student/instructor), Zod request validation, Helmet and rate limiting.
 - **PostgreSQL schema** designed in Prisma (37 models) with migrations.
 - **React SPA**: TanStack Query for server state, Zustand for auth state, shadcn/ui + Tailwind. Includes a course player and an instructor course builder.
+- **Tested:** 22 integration tests (Vitest + Supertest) run against a real Postgres in GitHub Actions, covering auth, role-based access, draft visibility, enrollment and progress.
 - **Deployed on Vercel + Neon Postgres.** Migrations and demo seed data run on every deploy. One-click demo logins for the student and instructor roles.
 
 `TypeScript` `Node.js` `Express` `Prisma` `PostgreSQL` `React` `Vite` `TanStack Query` `Zustand` `Vercel` `Neon`
@@ -63,7 +64,7 @@ A habit tracker built around recovering from a miss instead of resetting a strea
 | **Backend** | Node.js, Express, REST API design, JWT auth, Zod, BullMQ, Server-Sent Events |
 | **Data** | PostgreSQL (Neon), Prisma, Redis, Supabase |
 | **Platforms** | NetSuite (SuiteScript 2.x, SuiteCommerce) |
-| **Tooling** | Git, GitHub Actions, Turborepo, Docker Compose (local dev), Vitest, Vercel |
+| **Tooling** | Git, GitHub Actions, Turborepo, Docker Compose (local dev), Vitest, Supertest, Vercel |
 
 ---
 
