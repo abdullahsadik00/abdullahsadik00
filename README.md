@@ -32,10 +32,10 @@ Next.js App Router + Zustand (persist + immer). Features: drag-to-reorder with m
 
 `Next.js` `TypeScript` `Zustand` `dnd-kit` `Vitest`
 
-### [Neuroscience Habit App](https://github.com/abdullahsadik00/Neuroscience-Habit-App): habit tracker
-React web app on a Supabase backend, with a Stripe webhook Edge Function for subscriptions, PostHog product analytics, and a companion Flutter app.
+### [NeuroSync](https://github.com/abdullahsadik00/Neuroscience-Habit-App): habit-recovery app
+A habit tracker built around recovering from a miss instead of resetting a streak. It has a React 19 PWA (Zustand, offline-capable), a Flutter mobile app with Supabase auth and sync, and a Supabase Edge Function that verifies Stripe webhooks and unlocks the Pro tier.
 
-`React` `TypeScript` `Supabase` `Stripe` `Flutter`
+`React` `TypeScript` `Zustand` `Flutter` `Supabase` `Stripe` `PostHog`
 
 ---
 
